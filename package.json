@@ -1,0 +1,27 @@
+{
+  "name": "hooks",
+  "version": "1.0.0",
+  "description": "基于Vue3的函数钩子",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./__test__/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xizher/hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xizher/hooks/issues"
+  },
+  "homepage": "https://github.com/xizher/hooks#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^3.0.4"
+  }
+}
